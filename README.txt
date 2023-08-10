@@ -1,3 +1,7 @@
+My Contract study
+contracts/artifacts/CrypTwitter.sol
+
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
